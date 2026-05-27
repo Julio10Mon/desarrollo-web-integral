@@ -3,8 +3,9 @@ examen dx
 
 
 # Evaluación Diagnóstica de Git
-Nombre del Alumno: [Por completar]
-Matrícula/Código: [Por completar]
+Nombre del Alumno: [Julio Cesar Montoya Romero]
+Matrícula/Código: [2330404]
 
 ### Pregunta Práctica:
-Menciona brevemente un comando de la terminal de Linux o Windows que utilices con frecuencia y para qué sirve:
+Un comando que uso con mucha frecuencia es git status
+Sirve para ver el estado actual del repositorio, qué archivos han cambiado. Lo ejecuto todo el tiempo antes de hacer commit.
